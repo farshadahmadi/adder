@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paas_manifest name="%sManifest">
+  <description>The location in which the application is going to be deployed.</description>
+  <uri>%s</uri>
+</paas_manifest>
